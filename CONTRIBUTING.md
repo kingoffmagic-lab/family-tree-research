@@ -9,3 +9,7 @@ For other resources, edit resources/sources.json. A general catalogue entry is n
 Run `python3 scripts/render_catalogue.py` and `python3 scripts/validate_catalogue.py`. Generated Markdown is a view, not a second editable dataset. Include a dated explanation when a region's institution list has been reconciled. Do not mark it complete merely because one archive has a working homepage.
 
 Upstream changes: choose an explicit public commit, review its policy and schema changes, replace the vendored tracked files without modifications, regenerate upstream-lock.json, and run upstream and starter tests. Changes to research methodology belong upstream; project access restrictions remain in guides/policy.md.
+
+Before a release, run the starter and upstream tests, regenerate guides, validate checksums, and review files and binary metadata for private case data. Inspect a fictional HTML/GEDCOM export; test a Gramps import when available. Keep coverage gaps visible. Publication requires the user's instruction; do not publish real cases. Network failures require review, not automatic deletion.
+
+Linked archival material retains its owners' rights. Institution listings do not imply affiliation or endorsement.

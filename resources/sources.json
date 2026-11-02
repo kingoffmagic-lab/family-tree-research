@@ -1,902 +1,902 @@
 {
-  "schema_version": 1,
-  "as_of": "2026-11-02",
-  "sources": [
-    {
-      "id": "ya-ru",
-      "title": "Yandex Archives",
-      "category": "archive-discovery",
-      "url": "https://ya.ru/archive",
-      "description": "Search recognized text from participating archival collections, including church books, revision lists and confession records. Coverage is collection-specific, not all Russia. Inspect the original page because OCR and handwriting recognition can distort names. The general service currently says document viewing requires authorization; the user handles sign-in.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://ya.ru/archive",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "inv-velikie-org",
-      "title": "Великія описи",
-      "category": "archive-discovery",
-      "url": "https://inv.velikie.org/",
-      "description": "Volunteer transcription of archive inventories and selected document indexes. Useful for locating a fonds, inventory or file by place, institution or surname. The project explicitly does not host document scans: a file title is a lead to its keeper, not the record itself.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://inv.velikie.org/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "nashipredki-com",
-      "title": "НашиПредки",
-      "category": "archive-discovery",
-      "url": "https://nashipredki.com/",
-      "description": "Navigate locality, historical jurisdiction, archive and descriptions of church books, revision tales and confession lists. Use it to discover a likely collection and check the original custodian. Catalogue coverage and available digital copies vary; a collection listing does not mean every year or parish survives.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://nashipredki.com/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "guides-rusarchives-ru",
-      "title": "Путеводители по российским архивам",
-      "category": "archive-discovery",
-      "url": "https://guides.rusarchives.ru/",
-      "description": "Institutional guides describe fonds and record creators, including historical, party and personal collections. Search the institution and dated jurisdiction before an individual surname. A guide is a dated publication: follow mergers and transfers and do not assume its holdings description proves current scan availability.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://guides.rusarchives.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "online-archives-ru",
-      "title": "Единый портал архивных документов",
-      "category": "archive-discovery",
-      "url": "https://online.archives.ru/",
-      "description": "Browse participating federal archive catalogues and digitized materials. Useful for central government, military and historical record creators whose files are not held in a regional archive. The participating archive list is not the entire archive network; distinguish indexed units from images.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "upstream-or-institutional-resource",
-        "source_url": "https://online.archives.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "pamyat-naroda-ru",
-      "title": "Память народа",
-      "category": "military",
-      "url": "https://pamyat-naroda.ru/",
-      "description": "A route to Second World War service, awards and military-document searches. Compare dates, birthplaces, relatives and units before associating a record with a person. Related military portals can reproduce the same record: shared provenance does not create independent evidence. This environment encountered an authorization barrier.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://pamyat-naroda.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "obd-memorial-ru",
-      "title": "ОБД Мемориал",
-      "category": "military",
-      "url": "https://obd-memorial.ru/",
-      "description": "Search records concerning people killed, deceased or missing during the Second World War and subsequent period, including casualty and burial material. Original document images may supply birthplace, unit and relatives. Index spelling can be wrong; keep a separate candidate until distinguishing details align.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://obd-memorial.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "podvignaroda-ru",
-      "title": "Подвиг народа",
-      "category": "military",
-      "url": "https://podvignaroda.ru/",
-      "description": "Search award-related records and supporting documents. An award narrative can provide service chronology and personal details absent from a short index. Verify the document image and identifiers; records duplicated in other military systems belong to the same evidence chain.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://podvignaroda.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "gwar-mil-ru",
-      "title": "Памяти героев Великой войны",
-      "category": "military",
-      "url": "https://gwar.mil.ru/",
-      "description": "First World War research route for service-related reports and other surviving military documents. Search variants of names and locality spellings and check record type before interpreting a date or rank. Portal accessibility varies; a blocked route does not establish absent records.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://gwar.mil.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "1914-svrt-ru",
-      "title": "СВРТ: Первая мировая война",
-      "category": "military",
-      "url": "https://1914.svrt.ru/",
-      "description": "A person-search index for First World War participants, with locality fields including gubernia, uyezd and settlement. Useful when military paperwork distorts a village name or exact surname queries fail. Follow provenance to the original document; the index alone does not establish identity.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://1914.svrt.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "1418museum-ru",
-      "title": "Дорога памяти",
-      "category": "military",
-      "url": "https://1418museum.ru/",
-      "description": "Search memorial biographies and photographs associated with wartime participants. Distinguish contributed family narratives and portraits from archival documents linked through the site. Treat captions and identifications as claims requiring provenance, not automatic kinship evidence.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://1418museum.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "moypolk-ru",
-      "title": "Мой полк",
-      "category": "military",
-      "url": "https://moypolk.ru/",
-      "description": "Contributed wartime biographies, family recollections and photographs can supply alternate spellings, places and leads. Their evidential strength depends on the submitter and cited documents. Search and read public material; this workflow does not post, message contributors or copy current personal contacts.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://moypolk.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "warheroes-ru",
-      "title": "Герои страны",
-      "category": "military",
-      "url": "https://warheroes.ru/",
-      "description": "Biographical reference route for decorated people and notable service histories. Useful for tracing dates, institutions and source bibliographies. Compare assertions with cited award or service records; an editorial biography is not a substitute for the underlying document.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://warheroes.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "ru-openlist-wiki",
-      "title": "Открытый список",
-      "category": "repression",
-      "url": "https://ru.openlist.wiki/",
-      "description": "Search biographies of victims of Soviet political repression. Entries may identify memory books, arrest and sentencing details, and an archival reference. Inspect cited provenance and retain conflicting dates; multiple memorial sites can repeat the same underlying entry.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://ru.openlist.wiki/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "bessmertnybarak-com",
-      "title": "Бессмертный барак",
-      "category": "repression",
-      "url": "https://bessmertnybarak.com/",
-      "description": "Memorial entries, books of remembrance and historical materials concerning repression. Useful for discovering a biographical lead and tracing where an entry was published. Check whether information is contributed or copied from a named collection before treating it as a separate evidence chain.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://bessmertnybarak.com/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "visz-nlr-ru",
-      "title": "Возвращённые имена",
-      "category": "repression",
-      "url": "https://visz.nlr.ru/",
-      "description": "National Library memorial and biographical research route concerning repression. Look for regional memory-book references and source citations. Availability varies by component database; a search result can point to an archival case without providing the case itself.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://visz.nlr.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "poslednyadres-ru",
-      "title": "Последний адрес",
-      "category": "repression",
-      "url": "https://poslednyadres.ru/",
-      "description": "Commemorative biographies may provide sourced life histories, family context and references to repression records. Read citations rather than assuming the memorial narrative is an original archival record. Historical addresses in biographies are context; do not extend research into current contacts or residences.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://poslednyadres.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "base-memo-ru",
-      "title": "Memorial historical database",
-      "category": "repression",
-      "url": "https://base.memo.ru/",
-      "description": "A route to historical repression entries and their published or archival sources. Check the current official entry point and each record’s provenance; old links and availability can change. Keep overlapping memorial indexes in a shared dependence group when they reproduce one source.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://base.memo.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "search-rsl-ru",
-      "title": "РГБ: поиск",
-      "category": "books-and-press",
-      "url": "https://search.rsl.ru/",
-      "description": "Search bibliographic records by title, author, subject and locality. Useful for settlement lists, address calendars, institutional histories, reference books and memoirs. A catalogue record establishes an edition exists in the catalogue, not that full text is openly accessible.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://search.rsl.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "elib-shpl-ru",
-      "title": "Государственная публичная историческая библиотека",
-      "category": "books-and-press",
-      "url": "https://elib.shpl.ru/",
-      "description": "Digitized historical books and periodicals, including statistical and local reference publications relevant to genealogy. Search historical gubernia and publication titles as well as surnames. Distinguish printed page numbers from viewer frames and inspect scans when OCR is incomplete.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://elib.shpl.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "prlib-ru",
-      "title": "Президентская библиотека",
-      "category": "books-and-press",
-      "url": "https://prlib.ru/",
-      "description": "Search collections and catalogue descriptions for historical books, maps, government documents and regional material. Some resources may require different access arrangements from the public catalogue. Preserve edition metadata and distinguish a remote reading-room route from a freely viewable item.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://prlib.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "rusneb-ru",
-      "title": "Национальная электронная библиотека",
-      "category": "books-and-press",
-      "url": "https://rusneb.ru/",
-      "description": "Discover books and periodicals across participating collections. Useful for checking editions, regional publications and alternative copies of a work. Rights and access differ by item; the existence of a bibliographic page does not establish downloadable full text.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://rusneb.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "nlr-ru",
-      "title": "Российская национальная библиотека",
-      "category": "books-and-press",
-      "url": "https://nlr.ru/",
-      "description": "Start from institutional catalogues, digital resources and reference services for historical publications. Regional memory books, address directories and administrative reference works can help identify people and historical places. Choose the appropriate catalogue component; no single search covers all holdings.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://nlr.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "vivaldi-nlr-ru",
-      "title": "РНБ: Vivaldi",
-      "category": "books-and-press",
-      "url": "https://vivaldi.nlr.ru/",
-      "description": "Digital viewing route for National Library material. Useful after identifying a particular reference work or periodical in a catalogue. Check the title page, edition, printed pagination and image completeness; viewer access and text extraction are item-specific.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://vivaldi.nlr.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "archive-org",
-      "title": "Internet Archive",
-      "category": "books-and-press",
-      "url": "https://archive.org/",
-      "description": "Search historical books and periodicals by title, year and publisher, including copies absent from a local library’s open viewer. Check who uploaded the copy, which institution supplied it and whether pages are missing. Mirrors of a publication are not independent evidence.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://archive.org/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "nlr-ru-historical-geography",
-      "title": "РНБ: историческая административная география",
-      "category": "historical-geography",
-      "url": "https://nlr.ru/res/refer/r_imp/",
-      "description": "Reference resources on imperial administrative changes and urban settlements. Useful for reconstructing a gubernia or uyezd at an event date. Component databases have their own geographic and chronological limits; this is not a complete volost gazetteer or a custody map.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://nlr.ru/res/refer/r_imp/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "retromap-ru",
-      "title": "Ретромап",
-      "category": "historical-geography",
-      "url": "https://retromap.ru/",
-      "description": "Historic map discovery can help compare old settlement names, roads and boundaries with present geography. Use map date, scale and legend; proximity is only a lead. A map does not by itself identify a parish, a family household or the archive holding a register.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://retromap.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "sobory-ru",
-      "title": "Соборы.ру",
-      "category": "historical-geography",
-      "url": "https://sobory.ru/",
-      "description": "Church and locality descriptions can help identify historical religious buildings and alternative place names. Check sources, dates and denomination. A surviving church building or nearby church does not prove that a village belonged to its parish at the relevant date.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://sobory.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "temples-ru",
-      "title": "Храмы России",
-      "category": "historical-geography",
-      "url": "https://temples.ru/",
-      "description": "Reference information and photographs concerning religious buildings. Useful for settlement and church-name variants before consulting diocesan and parish guides. Treat contributed identifications as leads and verify parish membership and chronology in documentary sources.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://temples.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "pastvu-com",
-      "title": "PastVu",
-      "category": "photographs-and-museums",
-      "url": "https://pastvu.com/",
-      "description": "Discover geographically placed historic photographs and their captions. Useful for visual context around a settlement, workplace or institution. Check the original image source, dating and attribution; a caption does not identify a family member without additional evidence.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://pastvu.com/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "goskatalog-ru",
-      "title": "Государственный каталог Музейного фонда",
-      "category": "photographs-and-museums",
-      "url": "https://goskatalog.ru/",
-      "description": "Search descriptions of museum objects and collections, potentially including photographs, documents and personal collections. Use institution and place as well as names. Catalogue metadata is not permission to reproduce images and does not establish a person’s identity from appearance.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://goskatalog.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "commons-wikimedia-org",
-      "title": "Wikimedia Commons",
-      "category": "photographs-and-museums",
-      "url": "https://commons.wikimedia.org/",
-      "description": "Find historical maps, photographs and published-document images with file-level provenance and reuse statements. Check the original institution, publication and licence for each file. A category or user description can be wrong; duplicates do not count as independent records.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://commons.wikimedia.org/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "forum-vgd-ru",
-      "title": "ВГД",
-      "category": "research-communities",
-      "url": "https://forum.vgd.ru/",
-      "description": "Regional and thematic discussions can identify archives, village variants, collection coverage and prior researchers’ observations. Read public threads and follow documentary citations. A forum assertion or user tree remains a lead, and this workflow does not contact or post to participants.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://forum.vgd.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "svrt-ru",
-      "title": "Союз Возрождения Родословных Традиций",
-      "category": "research-communities",
-      "url": "https://svrt.ru/",
-      "description": "Genealogical projects, indexes and methodological material can lead to local collections and specialist research routes. Establish the creator and coverage of each project separately. The organization’s general homepage is not evidence for a particular relationship.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://svrt.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "familysearch-org",
-      "title": "FamilySearch",
-      "category": "research-communities",
-      "url": "https://www.familysearch.org/",
-      "description": "Catalogue, indexed records, digitized material and user trees provide different research routes. Search historical locality and collection descriptions, including unindexed material. Login and viewing restrictions vary; users handle access, and contributed trees do not establish kinship.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://www.familysearch.org/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "geni-com",
-      "title": "Geni",
-      "category": "research-communities",
-      "url": "https://www.geni.com/",
-      "description": "Public user trees can provide names, relatives and cited-source leads. Keep each proposed relationship separate from documentary evidence and check whether other trees merely copied it. Do not create accounts, synchronize trees or contact users through this workflow.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://www.geni.com/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "familio-org",
-      "title": "Familio",
-      "category": "research-communities",
-      "url": "https://familio.org/",
-      "description": "A route to locality-oriented genealogy material, public trees and contributed references. Check the coverage and provenance of the specific component before relying on it. Use tree entries as leads and avoid publishing or uploading a private case.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://familio.org/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "rodnaya-vyatka-ru",
-      "title": "Родная Вятка",
-      "category": "regional-history",
-      "url": "https://rodnaya-vyatka.ru/",
-      "description": "Regional historical and genealogical material can help investigate Vyatka localities, churches and published records. Look for sources and date coverage on each page rather than extending one index to the entire province. Access was restricted in this environment; do not infer absence from that barrier.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://rodnaya-vyatka.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "herzenlib-ru",
-      "title": "Библиотека имени Герцена",
-      "category": "regional-history",
-      "url": "https://herzenlib.ru/",
-      "description": "Regional library routes for Vyatka/Kirov bibliography, local publications and digitized historical material. Search historical administrative names and publication titles. A bibliographic reference may require a different viewing route from a scanned edition.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://herzenlib.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "pskoviana-ru",
-      "title": "Псковиана",
-      "category": "regional-history",
-      "url": "https://pskoviana.ru/",
-      "description": "The regional library describes a full-text local-history collection drawing on rare and valuable Pskov publications. Useful for locality context, directories, histories and bibliographies. Identify the exact work and its dates before applying a statement to an ancestor.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://pskoviana.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "pskovbook-ru",
-      "title": "Псковская областная библиотека",
-      "category": "regional-history",
-      "url": "https://pskovbook.ru/",
-      "description": "Institutional starting point for regional library catalogues and historical publications. Follow its own current resource links when an older text-viewer address no longer works. Catalogue and digitized coverage differ; use original titles and place variants.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://pskovbook.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "text-pskovbook-ru",
-      "title": "Псковские тексты",
-      "category": "regional-history",
-      "url": "https://text.pskovbook.ru/",
-      "description": "A regional text-resource route found in research logs. Potentially useful for searching digitized local publications and checking bibliography. Its current relationship to the library’s main catalogue and full-text availability requires verification; retain the route as a lead rather than promise comprehensive access.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://text.pskovbook.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "toropetscbs-ru",
-      "title": "Торопецкая библиотечная система",
-      "category": "regional-history",
-      "url": "https://toropetscbs.ru/",
-      "description": "Local library publications and bibliography can identify town and district histories, local newspapers and named institutions. Inspect the sources and publication date of each item. Local coverage should not be generalized to an entire historical gubernia.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://toropetscbs.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "bogorodsk-noginsk-ru",
-      "title": "Богородск–Ногинск",
-      "category": "regional-history",
-      "url": "https://bogorodsk-noginsk.ru/",
-      "description": "Local-history articles and references can help research the historical Bogorodsk district, settlements and institutions. Trace factual statements to documents or publications and check older place names. Editorial and contributed material is not equivalent to an archival original.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://bogorodsk-noginsk.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "opentextnn-ru",
-      "title": "Открытый текст",
-      "category": "regional-history",
-      "url": "https://opentextnn.ru/",
-      "description": "Historical texts, archival reference material and regional studies include routes useful for Nizhny Novgorod research. Search the archive and biography sections and bibliographic references. A published guide or transcription must be distinguished from the underlying case or image.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://opentextnn.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "ngounb-ru",
-      "title": "Нижегородская областная библиотека",
-      "category": "regional-history",
-      "url": "https://ngounb.ru/",
-      "description": "Regional library catalogues and local-history resources can help find newspapers, directories and publications. Search institutional and historical place names, then establish whether the result is bibliographic or full text. Older OPAC and digital-library hosts may be separate services.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://ngounb.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "opac-ngounb-ru",
-      "title": "Нижегородский OPAC",
-      "category": "regional-history",
-      "url": "https://opac.ngounb.ru/",
-      "description": "Bibliographic search route associated with regional-library research. Useful for locating specific editions, newspapers and subject references. Availability and coverage need checking; a catalogue hit does not establish open images or searchable full text.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://opac.ngounb.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "museum-arzamas-ru",
-      "title": "Арзамасский музей",
-      "category": "regional-history",
-      "url": "https://museum-arzamas.ru/",
-      "description": "Museum publications and collection descriptions can supply local institutional context, exhibitions and references to personal or photographic collections. Check provenance and the collection’s actual custodian. Online exhibition material does not imply that all museum holdings are searchable.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://museum-arzamas.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "arzbiblio-ru",
-      "title": "Арзамасские библиотеки",
-      "category": "regional-history",
-      "url": "https://arzbiblio.ru/",
-      "description": "Local library resources and historical publications may supply town directories, biographies, bibliographies and newspaper leads. Check the specific publication rather than treating a local-history summary as a civil record. Current catalogue and digital access require verification.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://arzbiblio.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "istmat-org",
-      "title": "Исторические материалы",
-      "category": "historical-context",
-      "url": "https://istmat.org/",
-      "description": "Published historical documents and statistical material can provide context for institutions, occupations, migration and policy. Trace a transcription to its edition or archival reference. Context about a population or workplace does not establish that a named person belonged to it.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://istmat.org/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "docs-historyrussia-org",
-      "title": "Электронная библиотека исторических документов",
-      "category": "historical-context",
-      "url": "https://docs.historyrussia.org/",
-      "description": "Search published documentary collections and their archive indexes. Useful for tracing a document’s printed edition and custodian. A published extract may omit context; follow its reference and do not count the extract and original as independent evidence.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://docs.historyrussia.org/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "naukaprava-ru",
-      "title": "Наука права",
-      "category": "historical-context",
-      "url": "https://naukaprava.ru/",
-      "description": "Historical legal publications can explain administrative institutions, procedures and changing social categories encountered in records. Use the law and date actually applicable to the event. A legal rule describes a framework, not evidence that a specific person experienced it.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://naukaprava.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "dspace-spbu-ru",
-      "title": "СПбГУ: репозиторий",
-      "category": "education-and-work",
-      "url": "https://dspace.spbu.ru/",
-      "description": "Institutional publications, research and historical material can help identify university history, graduates, staff and source bibliographies where publicly available. A name match needs dates and distinguishing details. Modern unrelated namesakes and current personal contacts are outside the task.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://dspace.spbu.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "cyberleninka-ru",
-      "title": "CyberLeninka",
-      "category": "education-and-work",
-      "url": "https://cyberleninka.ru/",
-      "description": "Search scholarly articles on local history, workplaces, institutions and historical migration. Bibliographies can point to archival fonds and little-known publications. Distinguish an author’s interpretation from the primary record and check whether a cited collection was actually consulted.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://cyberleninka.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "fips-ru",
-      "title": "ФИПС",
-      "category": "education-and-work",
-      "url": "https://fips.ru/",
-      "description": "Official intellectual-property research route for publicly available historical inventor and patent material. Use it only when relevant to a documented occupation or biography. A patent name alone cannot resolve a family identity; verify chronology and affiliation.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://fips.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "patents-google-com",
-      "title": "Поиск патентов",
-      "category": "education-and-work",
-      "url": "https://patents.google.com/",
-      "description": "Discovery interface for patent publications and inventor names. Useful for locating a publication and its original office record. Follow the publication’s provenance, keep namesakes separate, and avoid interpreting an inventor listing as a personal financial record.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://patents.google.com/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "poisk-sveca-ru",
-      "title": "Поиск захоронений Санкт-Петербурга",
-      "category": "burials",
-      "url": "https://poisk.sveca.ru/",
-      "description": "A burial-search route found in research material. Verify the current operator, geographic coverage and public access before searching. A burial entry or inscription can supply a date lead but identity requires comparison with other records.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://poisk.sveca.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "findagrave-com",
-      "title": "Find a Grave",
-      "category": "burials",
-      "url": "https://www.findagrave.com/",
-      "description": "Contributed memorials and grave photographs can provide inscription readings and cemetery leads. Check the actual image, contributor notes and source provenance. A memorial’s family links can be editorial additions rather than evidence on the stone.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://www.findagrave.com/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "billiongraves-com",
-      "title": "BillionGraves",
-      "category": "burials",
-      "url": "https://billiongraves.com/",
-      "description": "Discover contributed cemetery photographs and transcriptions. Use the visible inscription and location context, retaining uncertain readings. Coverage is contributor-dependent; missing search results do not establish that a burial is absent.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://billiongraves.com/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "zahoron-ru",
-      "title": "Захоронения",
-      "category": "burials",
-      "url": "https://zahoron.ru/",
-      "description": "Burial and cemetery discovery route appearing in research material. Establish the operator, locality and provenance of the particular record before use. Treat index details as leads, and do not collect current contacts or commission services through the agent.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://zahoron.ru/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "portal-ehri-project-eu",
-      "title": "Еврейский исторический портал EHRI",
-      "category": "cross-border",
-      "url": "https://portal.ehri-project.eu/",
-      "description": "Institution and collection descriptions can identify repositories holding Holocaust-related and broader contextual archival material. Useful for tracing custody across borders and finding an institution’s own website. Descriptions are discovery tools, not a substitute for checking the relevant fonds.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://portal.ehri-project.eu/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "niab-by",
-      "title": "Национальный исторический архив Беларуси",
-      "category": "cross-border",
-      "url": "https://niab.by/",
-      "description": "Institutional entry point for historical research in Belarus, including collection and enquiry guidance. Resolve the locality’s historical jurisdiction and distinguish Minsk and Grodno custodians. Exact records, date ranges and access depend on the fonds and must be checked separately.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://niab.by/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "earchive-estlatrus-eu",
-      "title": "Совместный электронный архив приграничья",
-      "category": "cross-border",
-      "url": "https://earchive-estlatrus.eu/",
-      "description": "Cross-border archival discovery route found in historical research. Check participating institutions, collection descriptions and the project’s current availability. A shared portal or mirror can provide access to an original held elsewhere without creating an independent source.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://earchive-estlatrus.eu/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    },
-    {
-      "id": "web-archive-org",
-      "title": "Старый интернет: Wayback Machine",
-      "category": "preservation",
-      "url": "https://web.archive.org/",
-      "description": "Recover descriptions and institutional links from older public websites when they have moved. Record the capture date separately from access date and verify current custodians elsewhere. An archived page cannot establish current fees, opening arrangements or scan access.",
-      "archive_ids": [],
-      "verification": {
-        "checked_at": "2026-11-02",
-        "method": "research-route-inventory",
-        "source_url": "https://web.archive.org/",
-        "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
-      }
-    }
-  ]
+ "schema_version": 1,
+ "as_of": "2026-11-02",
+ "sources": [
+  {
+   "id": "ya-ru",
+   "title": "Yandex Archives",
+   "category": "archive-discovery",
+   "url": "https://ya.ru/archive",
+   "description": "Search recognized text from participating archival collections, including church books, revision lists and confession records. Coverage is collection-specific, not all Russia. Inspect the original page because OCR and handwriting recognition can distort names. The general service currently says document viewing requires authorization; the user handles sign-in.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://ya.ru/archive",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "inv-velikie-org",
+   "title": "Великія описи",
+   "category": "archive-discovery",
+   "url": "https://inv.velikie.org/",
+   "description": "Volunteer transcription of archive inventories and selected document indexes. Useful for locating a fonds, inventory or file by place, institution or surname. The project explicitly does not host document scans: a file title is a lead to its keeper, not the record itself.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://inv.velikie.org/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "nashipredki-com",
+   "title": "НашиПредки",
+   "category": "archive-discovery",
+   "url": "https://nashipredki.com/",
+   "description": "Navigate locality, historical jurisdiction, archive and descriptions of church books, revision tales and confession lists. Use it to discover a likely collection and check the original custodian. Catalogue coverage and available digital copies vary; a collection listing does not mean every year or parish survives.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://nashipredki.com/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "guides-rusarchives-ru",
+   "title": "Путеводители по российским архивам",
+   "category": "archive-discovery",
+   "url": "https://guides.rusarchives.ru/",
+   "description": "Institutional guides describe fonds and record creators, including historical, party and personal collections. Search the institution and dated jurisdiction before an individual surname. A guide is a dated publication: follow mergers and transfers and do not assume its holdings description proves current scan availability.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://guides.rusarchives.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "online-archives-ru",
+   "title": "Единый портал архивных документов",
+   "category": "archive-discovery",
+   "url": "https://online.archives.ru/",
+   "description": "Browse participating federal archive catalogues and digitized materials. Useful for central government, military and historical record creators whose files are not held in a regional archive. The participating archive list is not the entire archive network; distinguish indexed units from images.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "upstream-or-institutional-resource",
+    "source_url": "https://online.archives.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "pamyat-naroda-ru",
+   "title": "Память народа",
+   "category": "military",
+   "url": "https://pamyat-naroda.ru/",
+   "description": "A route to Second World War service, awards and military-document searches. Compare dates, birthplaces, relatives and units before associating a record with a person. Related military portals can reproduce the same record: shared provenance does not create independent evidence. This environment encountered an authorization barrier.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://pamyat-naroda.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "obd-memorial-ru",
+   "title": "ОБД Мемориал",
+   "category": "military",
+   "url": "https://obd-memorial.ru/",
+   "description": "Search records concerning people killed, deceased or missing during the Second World War and subsequent period, including casualty and burial material. Original document images may supply birthplace, unit and relatives. Index spelling can be wrong; keep a separate candidate until distinguishing details align.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://obd-memorial.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "podvignaroda-ru",
+   "title": "Подвиг народа",
+   "category": "military",
+   "url": "https://podvignaroda.ru/",
+   "description": "Search award-related records and supporting documents. An award narrative can provide service chronology and personal details absent from a short index. Verify the document image and identifiers; records duplicated in other military systems belong to the same evidence chain.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://podvignaroda.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "gwar-mil-ru",
+   "title": "Памяти героев Великой войны",
+   "category": "military",
+   "url": "https://gwar.mil.ru/",
+   "description": "First World War research route for service-related reports and other surviving military documents. Search variants of names and locality spellings and check record type before interpreting a date or rank. Portal accessibility varies; a blocked route does not establish absent records.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://gwar.mil.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "1914-svrt-ru",
+   "title": "СВРТ: Первая мировая война",
+   "category": "military",
+   "url": "https://1914.svrt.ru/",
+   "description": "A person-search index for First World War participants, with locality fields including gubernia, uyezd and settlement. Useful when military paperwork distorts a village name or exact surname queries fail. Follow provenance to the original document; the index alone does not establish identity.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://1914.svrt.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "1418museum-ru",
+   "title": "Дорога памяти",
+   "category": "military",
+   "url": "https://1418museum.ru/",
+   "description": "Search memorial biographies and photographs associated with wartime participants. Distinguish contributed family narratives and portraits from archival documents linked through the site. Treat captions and identifications as claims requiring provenance, not automatic kinship evidence.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://1418museum.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "moypolk-ru",
+   "title": "Мой полк",
+   "category": "military",
+   "url": "https://moypolk.ru/",
+   "description": "Contributed wartime biographies, family recollections and photographs can supply alternate spellings, places and leads. Their evidential strength depends on the submitter and cited documents. Search and read public material; this workflow does not post, message contributors or copy current personal contacts.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://moypolk.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "warheroes-ru",
+   "title": "Герои страны",
+   "category": "military",
+   "url": "https://warheroes.ru/",
+   "description": "Biographical reference route for decorated people and notable service histories. Useful for tracing dates, institutions and source bibliographies. Compare assertions with cited award or service records; an editorial biography is not a substitute for the underlying document.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://warheroes.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "ru-openlist-wiki",
+   "title": "Открытый список",
+   "category": "repression",
+   "url": "https://ru.openlist.wiki/",
+   "description": "Search biographies of victims of Soviet political repression. Entries may identify memory books, arrest and sentencing details, and an archival reference. Inspect cited provenance and retain conflicting dates; multiple memorial sites can repeat the same underlying entry.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://ru.openlist.wiki/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "bessmertnybarak-com",
+   "title": "Бессмертный барак",
+   "category": "repression",
+   "url": "https://bessmertnybarak.com/",
+   "description": "Memorial entries, books of remembrance and historical materials concerning repression. Useful for discovering a biographical lead and tracing where an entry was published. Check whether information is contributed or copied from a named collection before treating it as a separate evidence chain.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://bessmertnybarak.com/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "visz-nlr-ru",
+   "title": "Возвращённые имена",
+   "category": "repression",
+   "url": "https://visz.nlr.ru/",
+   "description": "National Library memorial and biographical research route concerning repression. Look for regional memory-book references and source citations. Availability varies by component database; a search result can point to an archival case without providing the case itself.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://visz.nlr.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "poslednyadres-ru",
+   "title": "Последний адрес",
+   "category": "repression",
+   "url": "https://poslednyadres.ru/",
+   "description": "Commemorative biographies may provide sourced life histories, family context and references to repression records. Read citations rather than assuming the memorial narrative is an original archival record. Historical addresses in biographies are context; do not extend research into current contacts or residences.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://poslednyadres.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "base-memo-ru",
+   "title": "Memorial historical database",
+   "category": "repression",
+   "url": "https://base.memo.ru/",
+   "description": "A route to historical repression entries and their published or archival sources. Check the current official entry point and each record’s provenance; old links and availability can change. Keep overlapping memorial indexes in a shared dependence group when they reproduce one source.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://base.memo.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "search-rsl-ru",
+   "title": "РГБ: поиск",
+   "category": "books-and-press",
+   "url": "https://search.rsl.ru/",
+   "description": "Search bibliographic records by title, author, subject and locality. Useful for settlement lists, address calendars, institutional histories, reference books and memoirs. A catalogue record establishes an edition exists in the catalogue, not that full text is openly accessible.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://search.rsl.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "elib-shpl-ru",
+   "title": "Государственная публичная историческая библиотека",
+   "category": "books-and-press",
+   "url": "https://elib.shpl.ru/",
+   "description": "Digitized historical books and periodicals, including statistical and local reference publications relevant to genealogy. Search historical gubernia and publication titles as well as surnames. Distinguish printed page numbers from viewer frames and inspect scans when OCR is incomplete.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://elib.shpl.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "prlib-ru",
+   "title": "Президентская библиотека",
+   "category": "books-and-press",
+   "url": "https://prlib.ru/",
+   "description": "Search collections and catalogue descriptions for historical books, maps, government documents and regional material. Some resources may require different access arrangements from the public catalogue. Preserve edition metadata and distinguish a remote reading-room route from a freely viewable item.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://prlib.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "rusneb-ru",
+   "title": "Национальная электронная библиотека",
+   "category": "books-and-press",
+   "url": "https://rusneb.ru/",
+   "description": "Discover books and periodicals across participating collections. Useful for checking editions, regional publications and alternative copies of a work. Rights and access differ by item; the existence of a bibliographic page does not establish downloadable full text.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://rusneb.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "nlr-ru",
+   "title": "Российская национальная библиотека",
+   "category": "books-and-press",
+   "url": "https://nlr.ru/",
+   "description": "Start from institutional catalogues, digital resources and reference services for historical publications. Regional memory books, address directories and administrative reference works can help identify people and historical places. Choose the appropriate catalogue component; no single search covers all holdings.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://nlr.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "vivaldi-nlr-ru",
+   "title": "РНБ: Vivaldi",
+   "category": "books-and-press",
+   "url": "https://vivaldi.nlr.ru/",
+   "description": "Digital viewing route for National Library material. Useful after identifying a particular reference work or periodical in a catalogue. Check the title page, edition, printed pagination and image completeness; viewer access and text extraction are item-specific.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://vivaldi.nlr.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "archive-org",
+   "title": "Internet Archive",
+   "category": "books-and-press",
+   "url": "https://archive.org/",
+   "description": "Search historical books and periodicals by title, year and publisher, including copies absent from a local library’s open viewer. Check who uploaded the copy, which institution supplied it and whether pages are missing. Mirrors of a publication are not independent evidence.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://archive.org/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "nlr-ru-historical-geography",
+   "title": "РНБ: историческая административная география",
+   "category": "historical-geography",
+   "url": "https://nlr.ru/res/refer/r_imp/",
+   "description": "Reference resources on imperial administrative changes and urban settlements. Useful for reconstructing a gubernia or uyezd at an event date. Component databases have their own geographic and chronological limits; this is not a complete volost gazetteer or a custody map.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://nlr.ru/res/refer/r_imp/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "retromap-ru",
+   "title": "Ретромап",
+   "category": "historical-geography",
+   "url": "https://retromap.ru/",
+   "description": "Historic map discovery can help compare old settlement names, roads and boundaries with present geography. Use map date, scale and legend; proximity is only a lead. A map does not by itself identify a parish, a family household or the archive holding a register.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://retromap.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "sobory-ru",
+   "title": "Соборы.ру",
+   "category": "historical-geography",
+   "url": "https://sobory.ru/",
+   "description": "Church and locality descriptions can help identify historical religious buildings and alternative place names. Check sources, dates and denomination. A surviving church building or nearby church does not prove that a village belonged to its parish at the relevant date.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://sobory.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "temples-ru",
+   "title": "Храмы России",
+   "category": "historical-geography",
+   "url": "https://temples.ru/",
+   "description": "Reference information and photographs concerning religious buildings. Useful for settlement and church-name variants before consulting diocesan and parish guides. Treat contributed identifications as leads and verify parish membership and chronology in documentary sources.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://temples.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "pastvu-com",
+   "title": "PastVu",
+   "category": "photographs-and-museums",
+   "url": "https://pastvu.com/",
+   "description": "Discover geographically placed historic photographs and their captions. Useful for visual context around a settlement, workplace or institution. Check the original image source, dating and attribution; a caption does not identify a family member without additional evidence.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://pastvu.com/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "goskatalog-ru",
+   "title": "Государственный каталог Музейного фонда",
+   "category": "photographs-and-museums",
+   "url": "https://goskatalog.ru/",
+   "description": "Search descriptions of museum objects and collections, potentially including photographs, documents and personal collections. Use institution and place as well as names. Catalogue metadata is not permission to reproduce images and does not establish a person’s identity from appearance.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://goskatalog.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "commons-wikimedia-org",
+   "title": "Wikimedia Commons",
+   "category": "photographs-and-museums",
+   "url": "https://commons.wikimedia.org/",
+   "description": "Find historical maps, photographs and published-document images with file-level provenance and reuse statements. Check the original institution, publication and licence for each file. A category or user description can be wrong; duplicates do not count as independent records.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://commons.wikimedia.org/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "forum-vgd-ru",
+   "title": "ВГД",
+   "category": "research-communities",
+   "url": "https://forum.vgd.ru/",
+   "description": "Regional and thematic discussions can identify archives, village variants, collection coverage and prior researchers’ observations. Read public threads and follow documentary citations. A forum assertion or user tree remains a lead, and this workflow does not contact or post to participants.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://forum.vgd.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "svrt-ru",
+   "title": "Союз Возрождения Родословных Традиций",
+   "category": "research-communities",
+   "url": "https://svrt.ru/",
+   "description": "Genealogical projects, indexes and methodological material can lead to local collections and specialist research routes. Establish the creator and coverage of each project separately. The organization’s general homepage is not evidence for a particular relationship.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://svrt.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "familysearch-org",
+   "title": "FamilySearch",
+   "category": "research-communities",
+   "url": "https://www.familysearch.org/",
+   "description": "Catalogue, indexed records, digitized material and user trees provide different research routes. Search historical locality and collection descriptions, including unindexed material. Login and viewing restrictions vary; users handle access, and contributed trees do not establish kinship.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://www.familysearch.org/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "geni-com",
+   "title": "Geni",
+   "category": "research-communities",
+   "url": "https://www.geni.com/",
+   "description": "Public user trees can provide names, relatives and cited-source leads. Keep each proposed relationship separate from documentary evidence and check whether other trees merely copied it. Do not create accounts, synchronize trees or contact users through this workflow.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://www.geni.com/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "familio-org",
+   "title": "Familio",
+   "category": "research-communities",
+   "url": "https://familio.org/",
+   "description": "A route to locality-oriented genealogy material, public trees and contributed references. Check the coverage and provenance of the specific component before relying on it. Use tree entries as leads and avoid publishing or uploading a private case.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://familio.org/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "rodnaya-vyatka-ru",
+   "title": "Родная Вятка",
+   "category": "regional-history",
+   "url": "https://rodnaya-vyatka.ru/",
+   "description": "Regional historical and genealogical material can help investigate Vyatka localities, churches and published records. Look for sources and date coverage on each page rather than extending one index to the entire province. Access was restricted in this environment; do not infer absence from that barrier.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://rodnaya-vyatka.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "herzenlib-ru",
+   "title": "Библиотека имени Герцена",
+   "category": "regional-history",
+   "url": "https://herzenlib.ru/",
+   "description": "Regional library routes for Vyatka/Kirov bibliography, local publications and digitized historical material. Search historical administrative names and publication titles. A bibliographic reference may require a different viewing route from a scanned edition.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://herzenlib.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "pskoviana-ru",
+   "title": "Псковиана",
+   "category": "regional-history",
+   "url": "https://pskoviana.ru/",
+   "description": "The regional library describes a full-text local-history collection drawing on rare and valuable Pskov publications. Useful for locality context, directories, histories and bibliographies. Identify the exact work and its dates before applying a statement to an ancestor.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://pskoviana.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "pskovbook-ru",
+   "title": "Псковская областная библиотека",
+   "category": "regional-history",
+   "url": "https://pskovbook.ru/",
+   "description": "Institutional starting point for regional library catalogues and historical publications. Follow its own current resource links when an older text-viewer address no longer works. Catalogue and digitized coverage differ; use original titles and place variants.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://pskovbook.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "text-pskovbook-ru",
+   "title": "Псковские тексты",
+   "category": "regional-history",
+   "url": "https://text.pskovbook.ru/",
+   "description": "A regional text-resource route found in research logs. Potentially useful for searching digitized local publications and checking bibliography. Its current relationship to the library’s main catalogue and full-text availability requires verification; retain the route as a lead rather than promise comprehensive access.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://text.pskovbook.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "toropetscbs-ru",
+   "title": "Торопецкая библиотечная система",
+   "category": "regional-history",
+   "url": "https://toropetscbs.ru/",
+   "description": "Local library publications and bibliography can identify town and district histories, local newspapers and named institutions. Inspect the sources and publication date of each item. Local coverage should not be generalized to an entire historical gubernia.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://toropetscbs.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "bogorodsk-noginsk-ru",
+   "title": "Богородск–Ногинск",
+   "category": "regional-history",
+   "url": "https://bogorodsk-noginsk.ru/",
+   "description": "Local-history articles and references can help research the historical Bogorodsk district, settlements and institutions. Trace factual statements to documents or publications and check older place names. Editorial and contributed material is not equivalent to an archival original.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://bogorodsk-noginsk.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "opentextnn-ru",
+   "title": "Открытый текст",
+   "category": "regional-history",
+   "url": "https://opentextnn.ru/",
+   "description": "Historical texts, archival reference material and regional studies include routes useful for Nizhny Novgorod research. Search the archive and biography sections and bibliographic references. A published guide or transcription must be distinguished from the underlying case or image.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://opentextnn.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "ngounb-ru",
+   "title": "Нижегородская областная библиотека",
+   "category": "regional-history",
+   "url": "https://ngounb.ru/",
+   "description": "Regional library catalogues and local-history resources can help find newspapers, directories and publications. Search institutional and historical place names, then establish whether the result is bibliographic or full text. Older OPAC and digital-library hosts may be separate services.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://ngounb.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "opac-ngounb-ru",
+   "title": "Нижегородский OPAC",
+   "category": "regional-history",
+   "url": "https://opac.ngounb.ru/",
+   "description": "Bibliographic search route associated with regional-library research. Useful for locating specific editions, newspapers and subject references. Availability and coverage need checking; a catalogue hit does not establish open images or searchable full text.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://opac.ngounb.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "museum-arzamas-ru",
+   "title": "Арзамасский музей",
+   "category": "regional-history",
+   "url": "https://museum-arzamas.ru/",
+   "description": "Museum publications and collection descriptions can supply local institutional context, exhibitions and references to personal or photographic collections. Check provenance and the collection’s actual custodian. Online exhibition material does not imply that all museum holdings are searchable.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://museum-arzamas.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "arzbiblio-ru",
+   "title": "Арзамасские библиотеки",
+   "category": "regional-history",
+   "url": "https://arzbiblio.ru/",
+   "description": "Local library resources and historical publications may supply town directories, biographies, bibliographies and newspaper leads. Check the specific publication rather than treating a local-history summary as a civil record. Current catalogue and digital access require verification.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://arzbiblio.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "istmat-org",
+   "title": "Исторические материалы",
+   "category": "historical-context",
+   "url": "https://istmat.org/",
+   "description": "Published historical documents and statistical material can provide context for institutions, occupations, migration and policy. Trace a transcription to its edition or archival reference. Context about a population or workplace does not establish that a named person belonged to it.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://istmat.org/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "docs-historyrussia-org",
+   "title": "Электронная библиотека исторических документов",
+   "category": "historical-context",
+   "url": "https://docs.historyrussia.org/",
+   "description": "Search published documentary collections and their archive indexes. Useful for tracing a document’s printed edition and custodian. A published extract may omit context; follow its reference and do not count the extract and original as independent evidence.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://docs.historyrussia.org/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "naukaprava-ru",
+   "title": "Наука права",
+   "category": "historical-context",
+   "url": "https://naukaprava.ru/",
+   "description": "Historical legal publications can explain administrative institutions, procedures and changing social categories encountered in records. Use the law and date actually applicable to the event. A legal rule describes a framework, not evidence that a specific person experienced it.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://naukaprava.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "dspace-spbu-ru",
+   "title": "СПбГУ: репозиторий",
+   "category": "education-and-work",
+   "url": "https://dspace.spbu.ru/",
+   "description": "Institutional publications, research and historical material can help identify university history, graduates, staff and source bibliographies where publicly available. A name match needs dates and distinguishing details. Modern unrelated namesakes and current personal contacts are outside the task.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://dspace.spbu.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "cyberleninka-ru",
+   "title": "CyberLeninka",
+   "category": "education-and-work",
+   "url": "https://cyberleninka.ru/",
+   "description": "Search scholarly articles on local history, workplaces, institutions and historical migration. Bibliographies can point to archival fonds and little-known publications. Distinguish an author’s interpretation from the primary record and check whether a cited collection was actually consulted.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://cyberleninka.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "fips-ru",
+   "title": "ФИПС",
+   "category": "education-and-work",
+   "url": "https://fips.ru/",
+   "description": "Official intellectual-property research route for publicly available historical inventor and patent material. Use it only when relevant to a documented occupation or biography. A patent name alone cannot resolve a family identity; verify chronology and affiliation.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://fips.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "patents-google-com",
+   "title": "Поиск патентов",
+   "category": "education-and-work",
+   "url": "https://patents.google.com/",
+   "description": "Discovery interface for patent publications and inventor names. Useful for locating a publication and its original office record. Follow the publication’s provenance, keep namesakes separate, and avoid interpreting an inventor listing as a personal financial record.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://patents.google.com/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "poisk-sveca-ru",
+   "title": "Поиск захоронений Санкт-Петербурга",
+   "category": "burials",
+   "url": "https://poisk.sveca.ru/",
+   "description": "A burial-search route found in research material. Verify the current operator, geographic coverage and public access before searching. A burial entry or inscription can supply a date lead but identity requires comparison with other records.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://poisk.sveca.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "findagrave-com",
+   "title": "Find a Grave",
+   "category": "burials",
+   "url": "https://www.findagrave.com/",
+   "description": "Contributed memorials and grave photographs can provide inscription readings and cemetery leads. Check the actual image, contributor notes and source provenance. A memorial’s family links can be editorial additions rather than evidence on the stone.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://www.findagrave.com/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "billiongraves-com",
+   "title": "BillionGraves",
+   "category": "burials",
+   "url": "https://billiongraves.com/",
+   "description": "Discover contributed cemetery photographs and transcriptions. Use the visible inscription and location context, retaining uncertain readings. Coverage is contributor-dependent; missing search results do not establish that a burial is absent.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://billiongraves.com/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "zahoron-ru",
+   "title": "Захоронения",
+   "category": "burials",
+   "url": "https://zahoron.ru/",
+   "description": "Burial and cemetery discovery route appearing in research material. Establish the operator, locality and provenance of the particular record before use. Treat index details as leads, and do not collect current contacts or commission services through the agent.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://zahoron.ru/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "portal-ehri-project-eu",
+   "title": "Еврейский исторический портал EHRI",
+   "category": "cross-border",
+   "url": "https://portal.ehri-project.eu/",
+   "description": "Institution and collection descriptions can identify repositories holding Holocaust-related and broader contextual archival material. Useful for tracing custody across borders and finding an institution’s own website. Descriptions are discovery tools, not a substitute for checking the relevant fonds.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://portal.ehri-project.eu/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "niab-by",
+   "title": "Национальный исторический архив Беларуси",
+   "category": "cross-border",
+   "url": "https://niab.by/",
+   "description": "Institutional entry point for historical research in Belarus, including collection and enquiry guidance. Resolve the locality’s historical jurisdiction and distinguish Minsk and Grodno custodians. Exact records, date ranges and access depend on the fonds and must be checked separately.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://niab.by/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "earchive-estlatrus-eu",
+   "title": "Совместный электронный архив приграничья",
+   "category": "cross-border",
+   "url": "https://earchive-estlatrus.eu/",
+   "description": "Cross-border archival discovery route found in historical research. Check participating institutions, collection descriptions and the project’s current availability. A shared portal or mirror can provide access to an original held elsewhere without creating an independent source.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://earchive-estlatrus.eu/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  },
+  {
+   "id": "web-archive-org",
+   "title": "Старый интернет: Wayback Machine",
+   "category": "preservation",
+   "url": "https://web.archive.org/",
+   "description": "Recover descriptions and institutional links from older public websites when they have moved. Record the capture date separately from access date and verify current custodians elsewhere. An archived page cannot establish current fees, opening arrangements or scan access.",
+   "archive_ids": [],
+   "verification": {
+    "checked_at": "2026-11-02",
+    "method": "research-route-inventory",
+    "source_url": "https://web.archive.org/",
+    "limits": "General resource description; not a fresh end-to-end search or a guarantee of current access."
+   }
+  }
+ ]
 }

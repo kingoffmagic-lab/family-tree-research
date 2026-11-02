@@ -11,3 +11,5 @@ GEDCOM 5.5.1 uses UTF-8. Parent-child families are emitted only for single-sourc
 Output paths must be outside the toolkit and cannot overwrite register files or supplied originals. Existing output files require --overwrite. For GEDCOM, source citations refer back to evidence IDs; the CSV registers retain the full uncertainty model which GEDCOM cannot represent losslessly.
 
 The interactive tree and cited report share one offline file: `output/report.html`.
+
+Gramps import remains an outstanding release check; the fictional export was independently parsed with ged4py.

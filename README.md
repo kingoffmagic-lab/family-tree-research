@@ -19,7 +19,7 @@ python3 scripts/export_gedcom.py --case-dir ../my-case --out ../my-case/output/t
 
 Default outputs exclude living and unknown-status people. `--private-output` includes them for private use. Review citations before sharing. Nothing publishes or uploads results.
 
-[First session](guides/first-session.md) · [Policy](guides/policy.md) · [Outputs](guides/results.md) · [Fictional demo](examples/fictional-case/README.md)
+[Policy](guides/policy.md) · [Outputs](guides/results.md) · [Case workflow](guides/workflows.md)
 
 The archive directory covers 15 former Soviet republics plus Poland and Finland. Coverage is partial; it does not promise all surviving records or open scans.
 
@@ -31,6 +31,10 @@ python3 scripts/render_catalogue.py --check
 python3 -m unittest discover -s tests
 ```
 
-Upstream files are pinned in upstream-lock.json. Unused translated READMEs, cover art and eval fixtures are omitted; retained files are unchanged. See [NOTICE](NOTICE), [contributing](CONTRIBUTING.md) and [release status](RELEASE_STATUS.md).
+Upstream files are pinned in upstream-lock.json. Unused translated READMEs, cover art and eval fixtures are omitted; retained files are unchanged. See [contributing](CONTRIBUTING.md). Upstream: Denis Shiryaev and contributors, [MIT](vendor/ex-ussr-kinship-research/LICENSE).
 
 The interactive tree and cited report share one offline file: `output/report.html`.
+
+Ask relatives which documents exist, who supplied each account, and how exact the dates and place names are. Preserve whole-page originals and work on copies; leave unknowns unknown.
+
+Try the wholly fictional demo with `python3 scripts/demo.py --case-dir ../demo-case`, then run the audit and output commands above. Its people, dates and `.invalid` source are teaching fixtures, not historical evidence.

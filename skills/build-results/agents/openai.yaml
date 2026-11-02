@@ -1,4 +1,0 @@
-interface:
-  display_name: "Build Results"
-  short_description: "Build private trees, reports, and GEDCOM files"
-  default_prompt: "Use $build-results for my family-history investigation."

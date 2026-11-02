@@ -21,3 +21,5 @@ Use the bundled pinned dependency during research. Check or replace upstream onl
 Keep originals unchanged, register provenance, preserve uncertain readings, and separate namesakes. The upstream evidence protocol governs claims and source independence. A blocked search is not a no-match; no-match is not proof of absence.
 
 Keep every real case outside the public toolkit. Toolkit contributions use general service URLs and fictional examples, never family scans, exact record links, saved searches, private case paths, or copied case narratives.
+
+For institutional drafts and recipient selection, consult the bundled [correspondence reference](../vendor/ex-ussr-kinship-research/references/correspondence.md); this project policy still requires the user to submit requests.

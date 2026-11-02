@@ -4,7 +4,6 @@
   "retrieved_at": "2026-11-02",
   "license": "MIT",
   "files": {
-    ".gitignore": "cf565a138b13ebec004421a45f5dfabd923ab9f511d12b095e0ec7d83a50ddde",
     "LICENSE": "e741683284c4161a8a319d4bdf20d315994ccf6a53fe77f9121081506e0e1e4c",
     "SKILL.md": "2a7f52546bd8747a5ffed65e01648637ca8a7968bfd396f4b07148ed02f2496f",
     "assets/artifact-register.csv": "4a0a16264dae7be15b7d4806b503d2a43b04d09001d9cb16685b486cc565de0c",
@@ -58,5 +57,5 @@
     "tests/test_scan_montage.py": "fd0d66a62cfdc687f38cebab4a8485659fb196daaebaf4b5184568f4ffdfc2b6",
     "tests/test_source_search.py": "976751f63380bddfa17b12a00ff2451fedff8fbda3c5ac1057b4337ef9bb3a3d"
   },
-  "distribution": "Selected unchanged upstream files; translated READMEs, cover and eval fixtures omitted."
+  "distribution": "Selected unchanged upstream runtime, reference, template and test files; non-runtime packaging omitted."
 }
