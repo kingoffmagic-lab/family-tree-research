@@ -1,0 +1,4 @@
+interface:
+  display_name: "Family Tree Research"
+  short_description: "Research ancestry and assess source-cited kinship"
+  default_prompt: "Use $family-tree-research to understand my family tree and research its unresolved relationships."

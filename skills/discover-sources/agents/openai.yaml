@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discover Sources"
+  short_description: "Find dated archive routes and research resources"
+  default_prompt: "Use $discover-sources for my family-history investigation."

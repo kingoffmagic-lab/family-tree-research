@@ -1,0 +1,4028 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-11-02",
+  "regions": [
+    {
+      "region_id": "russia-adygea",
+      "country": "russia",
+      "institution_ids": [
+        "russia-adygea-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-altai-republic",
+      "country": "russia",
+      "institution_ids": [
+        "russia-altai-republic-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-bashkortostan",
+      "country": "russia",
+      "institution_ids": [
+        "russia-bashkortostan-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-buryatia",
+      "country": "russia",
+      "institution_ids": [
+        "russia-buryatia-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-dagestan",
+      "country": "russia",
+      "institution_ids": [
+        "russia-dagestan-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-ingushetia",
+      "country": "russia",
+      "institution_ids": [
+        "russia-ingushetia-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-kabardino-balkaria",
+      "country": "russia",
+      "institution_ids": [
+        "russia-kabardino-balkaria-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-kalmykia",
+      "country": "russia",
+      "institution_ids": [
+        "russia-kalmykia-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-karachay-cherkessia",
+      "country": "russia",
+      "institution_ids": [
+        "russia-karachay-cherkessia-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-karelia",
+      "country": "russia",
+      "institution_ids": [
+        "russia-karelia-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-komi",
+      "country": "russia",
+      "institution_ids": [
+        "russia-komi-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-mari-el",
+      "country": "russia",
+      "institution_ids": [
+        "russia-mari-el-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-mordovia",
+      "country": "russia",
+      "institution_ids": [
+        "russia-mordovia-main",
+        "russia-mordovia-personnel"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-sakha",
+      "country": "russia",
+      "institution_ids": [
+        "russia-sakha-main",
+        "russia-sakha-personnel"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-north-ossetia",
+      "country": "russia",
+      "institution_ids": [
+        "russia-north-ossetia-main",
+        "russia-north-ossetia-modern"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-tatarstan",
+      "country": "russia",
+      "institution_ids": [
+        "russia-tatarstan-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-tuva",
+      "country": "russia",
+      "institution_ids": [
+        "russia-tuva-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-udmurtia",
+      "country": "russia",
+      "institution_ids": [
+        "russia-udmurtia-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-khakassia",
+      "country": "russia",
+      "institution_ids": [
+        "russia-khakassia-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-chechnya",
+      "country": "russia",
+      "institution_ids": [
+        "russia-chechnya-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-chuvashia",
+      "country": "russia",
+      "institution_ids": [
+        "russia-chuvashia-main",
+        "russia-chuvashia-modern"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-altai-krai",
+      "country": "russia",
+      "institution_ids": [
+        "russia-altai-krai-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-zabaykalsky",
+      "country": "russia",
+      "institution_ids": [
+        "russia-zabaykalsky-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-kamchatka",
+      "country": "russia",
+      "institution_ids": [
+        "russia-kamchatka-main",
+        "russia-kamchatka-palana"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-krasnodar",
+      "country": "russia",
+      "institution_ids": [
+        "russia-krasnodar-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-krasnoyarsk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-krasnoyarsk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-perm",
+      "country": "russia",
+      "institution_ids": [
+        "russia-perm-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-primorye",
+      "country": "russia",
+      "institution_ids": [
+        "russia-primorye-main",
+        "russia-far-east-historical"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-stavropol",
+      "country": "russia",
+      "institution_ids": [
+        "russia-stavropol-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-khabarovsk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-khabarovsk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-amur",
+      "country": "russia",
+      "institution_ids": [
+        "russia-amur-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-arkhangelsk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-arkhangelsk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-astrakhan",
+      "country": "russia",
+      "institution_ids": [
+        "russia-astrakhan-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-belgorod",
+      "country": "russia",
+      "institution_ids": [
+        "russia-belgorod-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-bryansk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-bryansk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-vladimir",
+      "country": "russia",
+      "institution_ids": [
+        "russia-vladimir-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-volgograd",
+      "country": "russia",
+      "institution_ids": [
+        "russia-volgograd-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-vologda",
+      "country": "russia",
+      "institution_ids": [
+        "russia-vologda-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-voronezh",
+      "country": "russia",
+      "institution_ids": [
+        "russia-voronezh-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-ivanovo",
+      "country": "russia",
+      "institution_ids": [
+        "russia-ivanovo-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-irkutsk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-irkutsk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-kaliningrad",
+      "country": "russia",
+      "institution_ids": [
+        "russia-kaliningrad-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-kaluga",
+      "country": "russia",
+      "institution_ids": [
+        "russia-kaluga-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-kemerovo",
+      "country": "russia",
+      "institution_ids": [
+        "russia-kemerovo-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-kirov",
+      "country": "russia",
+      "institution_ids": [
+        "russia-kirov-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-kostroma",
+      "country": "russia",
+      "institution_ids": [
+        "russia-kostroma-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-kurgan",
+      "country": "russia",
+      "institution_ids": [
+        "russia-kurgan-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-kursk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-kursk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-leningrad",
+      "country": "russia",
+      "institution_ids": [
+        "russia-leningrad-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-lipetsk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-lipetsk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-magadan",
+      "country": "russia",
+      "institution_ids": [
+        "russia-magadan-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-moscow-oblast",
+      "country": "russia",
+      "institution_ids": [
+        "russia-moscow-oblast-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-murmansk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-murmansk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-nizhny-novgorod",
+      "country": "russia",
+      "institution_ids": [
+        "russia-nizhny-novgorod-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-novgorod",
+      "country": "russia",
+      "institution_ids": [
+        "russia-novgorod-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-novosibirsk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-novosibirsk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-omsk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-omsk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-orenburg",
+      "country": "russia",
+      "institution_ids": [
+        "russia-orenburg-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-oryol",
+      "country": "russia",
+      "institution_ids": [
+        "russia-oryol-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-penza",
+      "country": "russia",
+      "institution_ids": [
+        "russia-penza-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-pskov",
+      "country": "russia",
+      "institution_ids": [
+        "russia-pskov-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-rostov",
+      "country": "russia",
+      "institution_ids": [
+        "russia-rostov-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-ryazan",
+      "country": "russia",
+      "institution_ids": [
+        "russia-ryazan-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-samara",
+      "country": "russia",
+      "institution_ids": [
+        "russia-samara-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-saratov",
+      "country": "russia",
+      "institution_ids": [
+        "russia-saratov-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-sakhalin",
+      "country": "russia",
+      "institution_ids": [
+        "russia-sakhalin-main",
+        "russia-sakhalin-personnel"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-sverdlovsk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-sverdlovsk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-smolensk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-smolensk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-tambov",
+      "country": "russia",
+      "institution_ids": [
+        "russia-tambov-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-tver",
+      "country": "russia",
+      "institution_ids": [
+        "russia-tver-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-tomsk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-tomsk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-tula",
+      "country": "russia",
+      "institution_ids": [
+        "russia-tula-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-tyumen",
+      "country": "russia",
+      "institution_ids": [
+        "russia-tyumen-main",
+        "russia-tyumen-political"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-ulyanovsk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-ulyanovsk-main",
+        "russia-ulyanovsk-modern"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-chelyabinsk",
+      "country": "russia",
+      "institution_ids": [
+        "russia-chelyabinsk-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-yaroslavl",
+      "country": "russia",
+      "institution_ids": [
+        "russia-yaroslavl-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-moscow-city",
+      "country": "russia",
+      "institution_ids": [
+        "russia-moscow-city-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-saint-petersburg",
+      "country": "russia",
+      "institution_ids": [
+        "russia-saint-petersburg-main",
+        "russia-spb-central"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-jewish-autonomous",
+      "country": "russia",
+      "institution_ids": [
+        "russia-jewish-autonomous-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-nenets",
+      "country": "russia",
+      "institution_ids": [
+        "russia-nenets-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-khanty-mansi",
+      "country": "russia",
+      "institution_ids": [
+        "russia-khanty-mansi-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-chukotka",
+      "country": "russia",
+      "institution_ids": [
+        "russia-chukotka-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "russia-yamalo-nenets",
+      "country": "russia",
+      "institution_ids": [
+        "russia-yamalo-nenets-main"
+      ],
+      "discovery_sources": [
+        "http://www.gov.ru/main/regions/regioni-44.html"
+      ]
+    },
+    {
+      "region_id": "ukraine-vinnytsia",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-davio-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-volyn",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-volyn-archives-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-dnipropetrovsk",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-dp-archives-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-donetsk",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-dn-archives-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-zhytomyr",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-archdep-zht-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-zakarpattia",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-dazo-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-zaporizhzhia",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-archivzp-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-ivano-frankivsk",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-daifo-if-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-kyiv-oblast",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-dako-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-kirovohrad",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-dakiro-kr-admin-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-luhansk",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-lg-archives-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-lviv",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-archivelviv-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-mykolaiv",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-mk-archives-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-odesa",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-odesa"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-poltava",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-poltava-archives-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-rivne",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-rv-archives-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-sumy",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-daso-archives-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-ternopil",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-dato-te-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-kharkiv",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-archives-kh-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-kherson",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-kherson-archives-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-khmelnytskyi",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-dahmo-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-cherkasy",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-ck-archives-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-chernivtsi",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-cv-archives-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-chernihiv",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-cn-archives-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-crimea",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-daark-org-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-kyiv-city",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-kiev-arhiv-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "ukraine-sevastopol",
+      "country": "ukraine",
+      "institution_ids": [
+        "ukraine-sev-archives-gov-ua"
+      ],
+      "discovery_sources": [
+        "https://archive.od.gov.ua/main/arhiv/arhivy/czentralni-ta-misczevi-arhivni-ustanovy-ukrayiny-veb-resursy/"
+      ]
+    },
+    {
+      "region_id": "belarus-brest",
+      "country": "belarus",
+      "institution_ids": [
+        "belarus-institution-7ed0e21bea",
+        "belarus-institution-c5567c34cb",
+        "belarus-institution-a0c6a45ac6",
+        "belarus-institution-a86f9d06ef"
+      ],
+      "discovery_sources": [
+        "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij"
+      ]
+    },
+    {
+      "region_id": "belarus-vitebsk",
+      "country": "belarus",
+      "institution_ids": [
+        "belarus-institution-c96c6fe5f5",
+        "belarus-institution-822e783b45",
+        "belarus-institution-51f1dd001b",
+        "belarus-institution-64438a6db5"
+      ],
+      "discovery_sources": [
+        "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij"
+      ]
+    },
+    {
+      "region_id": "belarus-gomel",
+      "country": "belarus",
+      "institution_ids": [
+        "belarus-institution-9c307082ca",
+        "belarus-institution-dc494b1a45",
+        "belarus-institution-f03e4b5d64",
+        "belarus-institution-16a9f97ce7",
+        "belarus-institution-93d15578fb"
+      ],
+      "discovery_sources": [
+        "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij"
+      ]
+    },
+    {
+      "region_id": "belarus-grodno",
+      "country": "belarus",
+      "institution_ids": [
+        "belarus-institution-f5481cd786",
+        "belarus-institution-ec528ff907",
+        "belarus-institution-017ea281c6",
+        "belarus-institution-370e9f13a8"
+      ],
+      "discovery_sources": [
+        "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij"
+      ]
+    },
+    {
+      "region_id": "belarus-minsk-oblast",
+      "country": "belarus",
+      "institution_ids": [
+        "belarus-institution-8af8db1319",
+        "belarus-institution-b89c1f72f6",
+        "belarus-institution-e2a7182ed7",
+        "belarus-institution-17af5dc889"
+      ],
+      "discovery_sources": [
+        "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij"
+      ]
+    },
+    {
+      "region_id": "belarus-mogilev",
+      "country": "belarus",
+      "institution_ids": [
+        "belarus-institution-ec2c6df309",
+        "belarus-institution-9179ceae49",
+        "belarus-institution-238ccaa4d4",
+        "belarus-institution-5f6b28c22b"
+      ],
+      "discovery_sources": [
+        "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij"
+      ]
+    },
+    {
+      "region_id": "belarus-minsk-city",
+      "country": "belarus",
+      "institution_ids": [
+        "belarus-institution-a4c69e89b3"
+      ],
+      "discovery_sources": [
+        "https://archives.gov.by/home/organy-arhivnogo-dela-i-deloproizvodstva-i-sistema-gosudarstvennyh-arhivnyh-uchrezhdenij"
+      ]
+    },
+    {
+      "region_id": "estonia-harju",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-hiiu",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-ida-viru",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-jogeva",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-jarva",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-laane",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-laane-viru",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-polva",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-parnu",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-rapla",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-saare",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-tartu",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-valga",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-viljandi",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "estonia-voru",
+      "country": "estonia",
+      "institution_ids": [
+        "estonia-national"
+      ],
+      "discovery_sources": [
+        "https://www.ra.ee/en/national-archives/about-us/"
+      ]
+    },
+    {
+      "region_id": "lithuania-alytus",
+      "country": "lithuania",
+      "institution_ids": [
+        "lithuania-alytus-branch"
+      ],
+      "discovery_sources": [
+        "https://archyvai.lrv.lt/lt/struktura-ir-kontaktine-informacija/pavaldzios-istaigos/"
+      ]
+    },
+    {
+      "region_id": "lithuania-kaunas",
+      "country": "lithuania",
+      "institution_ids": [
+        "lithuania-kauno-regioninis-valstybes-archyvas"
+      ],
+      "discovery_sources": [
+        "https://archyvai.lrv.lt/lt/struktura-ir-kontaktine-informacija/pavaldzios-istaigos/"
+      ]
+    },
+    {
+      "region_id": "lithuania-klaipeda",
+      "country": "lithuania",
+      "institution_ids": [
+        "lithuania-klaipedos-regioninis-valstybes-archyvas"
+      ],
+      "discovery_sources": [
+        "https://archyvai.lrv.lt/lt/struktura-ir-kontaktine-informacija/pavaldzios-istaigos/"
+      ]
+    },
+    {
+      "region_id": "lithuania-marijampole",
+      "country": "lithuania",
+      "institution_ids": [
+        "lithuania-marijampole-branch"
+      ],
+      "discovery_sources": [
+        "https://archyvai.lrv.lt/lt/struktura-ir-kontaktine-informacija/pavaldzios-istaigos/"
+      ]
+    },
+    {
+      "region_id": "lithuania-panevezys",
+      "country": "lithuania",
+      "institution_ids": [
+        "lithuania-panevezys-branch"
+      ],
+      "discovery_sources": [
+        "https://archyvai.lrv.lt/lt/struktura-ir-kontaktine-informacija/pavaldzios-istaigos/"
+      ]
+    },
+    {
+      "region_id": "lithuania-siauliai",
+      "country": "lithuania",
+      "institution_ids": [
+        "lithuania-siauliu-regioninis-valstybes-archyvas"
+      ],
+      "discovery_sources": [
+        "https://archyvai.lrv.lt/lt/struktura-ir-kontaktine-informacija/pavaldzios-istaigos/"
+      ]
+    },
+    {
+      "region_id": "lithuania-taurage",
+      "country": "lithuania",
+      "institution_ids": [
+        "lithuania-taurage-branch"
+      ],
+      "discovery_sources": [
+        "https://archyvai.lrv.lt/lt/struktura-ir-kontaktine-informacija/pavaldzios-istaigos/"
+      ]
+    },
+    {
+      "region_id": "lithuania-telsiai",
+      "country": "lithuania",
+      "institution_ids": [
+        "lithuania-telsiai-branch"
+      ],
+      "discovery_sources": [
+        "https://archyvai.lrv.lt/lt/struktura-ir-kontaktine-informacija/pavaldzios-istaigos/"
+      ]
+    },
+    {
+      "region_id": "lithuania-utena",
+      "country": "lithuania",
+      "institution_ids": [
+        "lithuania-utena-branch"
+      ],
+      "discovery_sources": [
+        "https://archyvai.lrv.lt/lt/struktura-ir-kontaktine-informacija/pavaldzios-istaigos/"
+      ]
+    },
+    {
+      "region_id": "lithuania-vilnius",
+      "country": "lithuania",
+      "institution_ids": [
+        "lithuania-vilniaus-regioninis-valstybes-archyvas"
+      ],
+      "discovery_sources": [
+        "https://archyvai.lrv.lt/lt/struktura-ir-kontaktine-informacija/pavaldzios-istaigos/"
+      ]
+    },
+    {
+      "region_id": "armenia-aragatsotn",
+      "country": "armenia",
+      "institution_ids": [
+        "armenia-national"
+      ],
+      "discovery_sources": [
+        "https://www.moj.am/structures/view/structure/40"
+      ]
+    },
+    {
+      "region_id": "armenia-ararat",
+      "country": "armenia",
+      "institution_ids": [
+        "armenia-national"
+      ],
+      "discovery_sources": [
+        "https://www.moj.am/structures/view/structure/40"
+      ]
+    },
+    {
+      "region_id": "armenia-armavir",
+      "country": "armenia",
+      "institution_ids": [
+        "armenia-national"
+      ],
+      "discovery_sources": [
+        "https://www.moj.am/structures/view/structure/40"
+      ]
+    },
+    {
+      "region_id": "armenia-gegharkunik",
+      "country": "armenia",
+      "institution_ids": [
+        "armenia-national"
+      ],
+      "discovery_sources": [
+        "https://www.moj.am/structures/view/structure/40"
+      ]
+    },
+    {
+      "region_id": "armenia-kotayk",
+      "country": "armenia",
+      "institution_ids": [
+        "armenia-national"
+      ],
+      "discovery_sources": [
+        "https://www.moj.am/structures/view/structure/40"
+      ]
+    },
+    {
+      "region_id": "armenia-lori",
+      "country": "armenia",
+      "institution_ids": [
+        "armenia-national",
+        "armenia-lori-tavush"
+      ],
+      "discovery_sources": [
+        "https://www.moj.am/structures/view/structure/40"
+      ]
+    },
+    {
+      "region_id": "armenia-shirak",
+      "country": "armenia",
+      "institution_ids": [
+        "armenia-national"
+      ],
+      "discovery_sources": [
+        "https://www.moj.am/structures/view/structure/40"
+      ]
+    },
+    {
+      "region_id": "armenia-syunik",
+      "country": "armenia",
+      "institution_ids": [
+        "armenia-national"
+      ],
+      "discovery_sources": [
+        "https://www.moj.am/structures/view/structure/40"
+      ]
+    },
+    {
+      "region_id": "armenia-tavush",
+      "country": "armenia",
+      "institution_ids": [
+        "armenia-national",
+        "armenia-lori-tavush"
+      ],
+      "discovery_sources": [
+        "https://www.moj.am/structures/view/structure/40"
+      ]
+    },
+    {
+      "region_id": "armenia-vayots-dzor",
+      "country": "armenia",
+      "institution_ids": [
+        "armenia-national"
+      ],
+      "discovery_sources": [
+        "https://www.moj.am/structures/view/structure/40"
+      ]
+    },
+    {
+      "region_id": "armenia-yerevan",
+      "country": "armenia",
+      "institution_ids": [
+        "armenia-national"
+      ],
+      "discovery_sources": [
+        "https://www.moj.am/structures/view/structure/40"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-abai",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-faee58d370",
+        "kazakhstan-abai-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-akmola",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-d426a5d08c",
+        "kazakhstan-akmola-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-aktobe",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-c89ec605d5",
+        "kazakhstan-aktobe-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-almaty-oblast",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-45d4456dd2",
+        "kazakhstan-almaty-oblast-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-atyrau",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-ab9e76c9e6",
+        "kazakhstan-atyrau-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-east-kazakhstan",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-f19f32a320",
+        "kazakhstan-east-kazakhstan-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-zhambyl",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-e6c40bbddb",
+        "kazakhstan-zhambyl-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-zhetisu",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-5e81fcc314",
+        "kazakhstan-zhetisu-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-west-kazakhstan",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-da4a8354c9",
+        "kazakhstan-west-kazakhstan-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-karaganda",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-9582667905"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-kostanay",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-78059db36e",
+        "kazakhstan-kostanay-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-kyzylorda",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-756aaaa728",
+        "kazakhstan-kyzylorda-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-mangystau",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-22284e8550",
+        "kazakhstan-mangystau-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-pavlodar",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-pavlodar-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-north-kazakhstan",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-e51e8516f3",
+        "kazakhstan-north-kazakhstan-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-turkistan",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-79d7a32615"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-ulytau",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-507dc472f3",
+        "kazakhstan-ulytau-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-astana",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-f8b32380c7",
+        "kazakhstan-astana-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-almaty-city",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-authority-707557cf6a",
+        "kazakhstan-almaty-city-archive"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kazakhstan-shymkent",
+      "country": "kazakhstan",
+      "institution_ids": [
+        "kazakhstan-shymkent-authority"
+      ],
+      "discovery_sources": [
+        "https://egov.kz/cms/ru/articles/department_of_archives"
+      ]
+    },
+    {
+      "region_id": "kyrgyzstan-batken",
+      "country": "kyrgyzstan",
+      "institution_ids": [
+        "kyrgyzstan-unit-d3670839cd",
+        "kyrgyzstan-entry-3dfab4",
+        "kyrgyzstan-entry-c6a54c",
+        "kyrgyzstan-entry-e93d9e"
+      ],
+      "discovery_sources": [
+        "https://www.archive.kg/o-sluzbe/ctruktura.html"
+      ]
+    },
+    {
+      "region_id": "kyrgyzstan-jalal-abad",
+      "country": "kyrgyzstan",
+      "institution_ids": [
+        "kyrgyzstan-unit-e4db675d3d"
+      ],
+      "discovery_sources": [
+        "https://www.archive.kg/o-sluzbe/ctruktura.html"
+      ]
+    },
+    {
+      "region_id": "kyrgyzstan-issyk-kul",
+      "country": "kyrgyzstan",
+      "institution_ids": [
+        "kyrgyzstan-unit-28dc6d3e3f"
+      ],
+      "discovery_sources": [
+        "https://www.archive.kg/o-sluzbe/ctruktura.html"
+      ]
+    },
+    {
+      "region_id": "kyrgyzstan-naryn",
+      "country": "kyrgyzstan",
+      "institution_ids": [
+        "kyrgyzstan-unit-2fa145daa9"
+      ],
+      "discovery_sources": [
+        "https://www.archive.kg/o-sluzbe/ctruktura.html"
+      ]
+    },
+    {
+      "region_id": "kyrgyzstan-osh-oblast",
+      "country": "kyrgyzstan",
+      "institution_ids": [
+        "kyrgyzstan-unit-859712aef8"
+      ],
+      "discovery_sources": [
+        "https://www.archive.kg/o-sluzbe/ctruktura.html"
+      ]
+    },
+    {
+      "region_id": "kyrgyzstan-talas",
+      "country": "kyrgyzstan",
+      "institution_ids": [
+        "kyrgyzstan-unit-4428c58d9b"
+      ],
+      "discovery_sources": [
+        "https://www.archive.kg/o-sluzbe/ctruktura.html"
+      ]
+    },
+    {
+      "region_id": "kyrgyzstan-chuy",
+      "country": "kyrgyzstan",
+      "institution_ids": [
+        "kyrgyzstan-unit-3be8e5b24f"
+      ],
+      "discovery_sources": [
+        "https://www.archive.kg/o-sluzbe/ctruktura.html"
+      ]
+    },
+    {
+      "region_id": "kyrgyzstan-bishkek",
+      "country": "kyrgyzstan",
+      "institution_ids": [
+        "kyrgyzstan-unit-6b43b97919"
+      ],
+      "discovery_sources": [
+        "https://www.archive.kg/o-sluzbe/ctruktura.html"
+      ]
+    },
+    {
+      "region_id": "kyrgyzstan-osh-city",
+      "country": "kyrgyzstan",
+      "institution_ids": [
+        "kyrgyzstan-osh-city-archive"
+      ],
+      "discovery_sources": [
+        "https://www.archive.kg/o-sluzbe/ctruktura.html"
+      ]
+    },
+    {
+      "region_id": "tajikistan-sughd",
+      "country": "tajikistan",
+      "institution_ids": [
+        "tajikistan-authority",
+        "tajikistan-sughd",
+        "tajikistan-istaravshan",
+        "tajikistan-konibodom",
+        "tajikistan-panjakent"
+      ],
+      "discovery_sources": [
+        "http://archive.tj/malumot/"
+      ]
+    },
+    {
+      "region_id": "tajikistan-khatlon",
+      "country": "tajikistan",
+      "institution_ids": [
+        "tajikistan-authority",
+        "tajikistan-khatlon-qurghonteppa",
+        "tajikistan-khatlon-kulob"
+      ],
+      "discovery_sources": [
+        "http://archive.tj/malumot/"
+      ]
+    },
+    {
+      "region_id": "tajikistan-gorno-badakhshan",
+      "country": "tajikistan",
+      "institution_ids": [
+        "tajikistan-authority",
+        "tajikistan-gbao"
+      ],
+      "discovery_sources": [
+        "http://archive.tj/malumot/"
+      ]
+    },
+    {
+      "region_id": "tajikistan-dushanbe",
+      "country": "tajikistan",
+      "institution_ids": [
+        "tajikistan-authority",
+        "tajikistan-central",
+        "tajikistan-audiovisual"
+      ],
+      "discovery_sources": [
+        "http://archive.tj/malumot/"
+      ]
+    },
+    {
+      "region_id": "tajikistan-republican-districts",
+      "country": "tajikistan",
+      "institution_ids": [
+        "tajikistan-authority",
+        "tajikistan-vahdat",
+        "tajikistan-gharm",
+        "tajikistan-hisor"
+      ],
+      "discovery_sources": [
+        "http://archive.tj/malumot/"
+      ]
+    },
+    {
+      "region_id": "turkmenistan-ahal",
+      "country": "turkmenistan",
+      "institution_ids": [
+        "turkmenistan-ahal-welayatynyn-dowlet-arhiwi"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.tm/tm/contacts"
+      ]
+    },
+    {
+      "region_id": "turkmenistan-balkan",
+      "country": "turkmenistan",
+      "institution_ids": [
+        "turkmenistan-balkan-welayatynyn-dowlet-arhiwi"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.tm/tm/contacts"
+      ]
+    },
+    {
+      "region_id": "turkmenistan-dashoguz",
+      "country": "turkmenistan",
+      "institution_ids": [
+        "turkmenistan-dasoguz-welayatynyn-dowlet-arhiwi"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.tm/tm/contacts"
+      ]
+    },
+    {
+      "region_id": "turkmenistan-lebap",
+      "country": "turkmenistan",
+      "institution_ids": [
+        "turkmenistan-lebap-welayatynyn-dowlet-arhiwi"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.tm/tm/contacts"
+      ]
+    },
+    {
+      "region_id": "turkmenistan-mary",
+      "country": "turkmenistan",
+      "institution_ids": [
+        "turkmenistan-mary-welayatynyn-dowlet-arhiwi"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.tm/tm/contacts"
+      ]
+    },
+    {
+      "region_id": "turkmenistan-ashgabat",
+      "country": "turkmenistan",
+      "institution_ids": [
+        "turkmenistan-asgabat-saherinin-dowlet-arhiwi"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.tm/tm/contacts"
+      ]
+    },
+    {
+      "region_id": "turkmenistan-arkadag",
+      "country": "turkmenistan",
+      "institution_ids": [
+        "turkmenistan-arkadag-saherinin-dowlet-arhiwi"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.tm/tm/contacts"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-karakalpakstan",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-4",
+        "uzbekistan-institution-5",
+        "uzbekistan-institution-6",
+        "uzbekistan-institution-7",
+        "uzbekistan-institution-8",
+        "uzbekistan-institution-9",
+        "uzbekistan-institution-10",
+        "uzbekistan-institution-11",
+        "uzbekistan-institution-12",
+        "uzbekistan-institution-13",
+        "uzbekistan-institution-14",
+        "uzbekistan-institution-15"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-andijan",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-16",
+        "uzbekistan-institution-17",
+        "uzbekistan-institution-18",
+        "uzbekistan-institution-19",
+        "uzbekistan-institution-20",
+        "uzbekistan-institution-21",
+        "uzbekistan-institution-22",
+        "uzbekistan-institution-23"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-bukhara",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-24",
+        "uzbekistan-institution-25",
+        "uzbekistan-institution-26",
+        "uzbekistan-institution-27",
+        "uzbekistan-institution-28",
+        "uzbekistan-institution-29",
+        "uzbekistan-institution-30",
+        "uzbekistan-institution-31",
+        "uzbekistan-institution-32",
+        "uzbekistan-institution-33",
+        "uzbekistan-institution-34",
+        "uzbekistan-institution-35"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-jizzakh",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-36",
+        "uzbekistan-institution-37",
+        "uzbekistan-institution-38",
+        "uzbekistan-institution-39",
+        "uzbekistan-institution-40"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-kashkadarya",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-41",
+        "uzbekistan-institution-42",
+        "uzbekistan-institution-43",
+        "uzbekistan-institution-44",
+        "uzbekistan-institution-45",
+        "uzbekistan-institution-46",
+        "uzbekistan-institution-47",
+        "uzbekistan-institution-48"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-navoi",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-49",
+        "uzbekistan-institution-50",
+        "uzbekistan-institution-51",
+        "uzbekistan-institution-52",
+        "uzbekistan-institution-53",
+        "uzbekistan-institution-54",
+        "uzbekistan-institution-55",
+        "uzbekistan-institution-56",
+        "uzbekistan-institution-57"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-namangan",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-59",
+        "uzbekistan-institution-60",
+        "uzbekistan-institution-61",
+        "uzbekistan-institution-62",
+        "uzbekistan-institution-63",
+        "uzbekistan-institution-64",
+        "uzbekistan-institution-65",
+        "uzbekistan-institution-66",
+        "uzbekistan-institution-67",
+        "uzbekistan-institution-68",
+        "uzbekistan-institution-69"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-samarkand",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-70",
+        "uzbekistan-institution-71",
+        "uzbekistan-institution-72",
+        "uzbekistan-institution-73",
+        "uzbekistan-institution-74",
+        "uzbekistan-institution-75",
+        "uzbekistan-institution-76",
+        "uzbekistan-institution-77"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-surkhandarya",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-83",
+        "uzbekistan-institution-84",
+        "uzbekistan-institution-85",
+        "uzbekistan-institution-86",
+        "uzbekistan-institution-87",
+        "uzbekistan-institution-88",
+        "uzbekistan-institution-89",
+        "uzbekistan-institution-90",
+        "uzbekistan-institution-91",
+        "uzbekistan-institution-92",
+        "uzbekistan-institution-93"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-syrdarya",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-78",
+        "uzbekistan-institution-79",
+        "uzbekistan-institution-80",
+        "uzbekistan-institution-81",
+        "uzbekistan-institution-82"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-tashkent-oblast",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-94",
+        "uzbekistan-institution-95",
+        "uzbekistan-institution-96",
+        "uzbekistan-institution-97",
+        "uzbekistan-institution-98",
+        "uzbekistan-institution-99",
+        "uzbekistan-institution-100",
+        "uzbekistan-institution-101"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-fergana",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-102",
+        "uzbekistan-institution-103",
+        "uzbekistan-institution-104",
+        "uzbekistan-institution-105",
+        "uzbekistan-institution-106",
+        "uzbekistan-institution-107",
+        "uzbekistan-institution-108",
+        "uzbekistan-institution-109",
+        "uzbekistan-institution-110",
+        "uzbekistan-institution-111"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-khorezm",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-112",
+        "uzbekistan-institution-113",
+        "uzbekistan-institution-114",
+        "uzbekistan-institution-115",
+        "uzbekistan-institution-116"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "uzbekistan-tashkent-city",
+      "country": "uzbekistan",
+      "institution_ids": [
+        "uzbekistan-institution-117",
+        "uzbekistan-institution-118"
+      ],
+      "discovery_sources": [
+        "https://gov.uz/oz/archive/pages/ozbekiston-milliy-arxivlari-hamda-hududlar-kesimida-davlat-arxivlari-malumotlari"
+      ]
+    },
+    {
+      "region_id": "moldova-chisinau",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-chisinau-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-balti",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-balti-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-anenii-noi",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-anenii-noi-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-basarabeasca",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-basarabeasca-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-briceni",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-briceni-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-cahul",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-cahul-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-cantemir",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-cantemir-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-calarasi",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-calarasi-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-causeni",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-causeni-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-criuleni",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-criuleni-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-cimislia",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-cimislia-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-donduseni",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-donduseni-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-drochia",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-drochia-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-dubasari",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-dubasari-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-edinet",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-edinet-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-falesti",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-falesti-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-floresti",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-floresti-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-glodeni",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-glodeni-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-hancesti",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-hancesti-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-ialoveni",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-ialoveni-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-leova",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-leova-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-nisporeni",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-nisporeni-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-ocnita",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-ocnita-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-orhei",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-orhei-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-rezina",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-rezina-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-rascani",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-rascani-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-soroca",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-soroca-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-sangerei",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-sangerei-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-straseni",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-straseni-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-soldanesti",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-soldanesti-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-stefan-voda",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-stefan-voda-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-taraclia",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-taraclia-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-telenesti",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-telenesti-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-ungheni",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-ungheni-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-comrat",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-comrat-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-ceadar-lunga",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-ceadar-lunga-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-vulcanesti",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-vulcanesti-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "moldova-transnistria",
+      "country": "moldova",
+      "institution_ids": [],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ],
+      "gaps": [
+        "No separately mapped local holding institution established; use the national directory and historical routes."
+      ]
+    },
+    {
+      "region_id": "moldova-gagauzia",
+      "country": "moldova",
+      "institution_ids": [
+        "moldova-comrat-service",
+        "moldova-ceadar-lunga-service",
+        "moldova-vulcanesti-service"
+      ],
+      "discovery_sources": [
+        "https://arhiva.gov.md/servicii-municipale-raionale-de-arhiva/"
+      ]
+    },
+    {
+      "region_id": "latvia-daugavpils",
+      "country": "latvia",
+      "institution_ids": [
+        "latvia-daugavpils"
+      ],
+      "discovery_sources": [
+        "https://www.arhivi.gov.lv/lv/strukturvieniba/zonalie-valsts-arhivi"
+      ]
+    },
+    {
+      "region_id": "latvia-jekabpils",
+      "country": "latvia",
+      "institution_ids": [
+        "latvia-jekabpils"
+      ],
+      "discovery_sources": [
+        "https://www.arhivi.gov.lv/lv/strukturvieniba/zonalie-valsts-arhivi"
+      ]
+    },
+    {
+      "region_id": "latvia-liepajas",
+      "country": "latvia",
+      "institution_ids": [
+        "latvia-liepajas"
+      ],
+      "discovery_sources": [
+        "https://www.arhivi.gov.lv/lv/strukturvieniba/zonalie-valsts-arhivi"
+      ]
+    },
+    {
+      "region_id": "latvia-rezeknes",
+      "country": "latvia",
+      "institution_ids": [
+        "latvia-rezeknes"
+      ],
+      "discovery_sources": [
+        "https://www.arhivi.gov.lv/lv/strukturvieniba/zonalie-valsts-arhivi"
+      ]
+    },
+    {
+      "region_id": "latvia-valmieras",
+      "country": "latvia",
+      "institution_ids": [
+        "latvia-valmieras"
+      ],
+      "discovery_sources": [
+        "https://www.arhivi.gov.lv/lv/strukturvieniba/zonalie-valsts-arhivi"
+      ]
+    },
+    {
+      "region_id": "latvia-ventspils",
+      "country": "latvia",
+      "institution_ids": [
+        "latvia-ventspils"
+      ],
+      "discovery_sources": [
+        "https://www.arhivi.gov.lv/lv/strukturvieniba/zonalie-valsts-arhivi"
+      ]
+    },
+    {
+      "region_id": "latvia-vidzemes",
+      "country": "latvia",
+      "institution_ids": [
+        "latvia-vidzemes"
+      ],
+      "discovery_sources": [
+        "https://www.arhivi.gov.lv/lv/strukturvieniba/zonalie-valsts-arhivi"
+      ]
+    },
+    {
+      "region_id": "latvia-zemgales",
+      "country": "latvia",
+      "institution_ids": [
+        "latvia-zemgales"
+      ],
+      "discovery_sources": [
+        "https://www.arhivi.gov.lv/lv/strukturvieniba/zonalie-valsts-arhivi"
+      ]
+    },
+    {
+      "region_id": "latvia-riga",
+      "country": "latvia",
+      "institution_ids": [
+        "latvia-riga-regional"
+      ],
+      "discovery_sources": [
+        "https://www.arhivi.gov.lv/lv/strukturvieniba/zonalie-valsts-arhivi"
+      ]
+    },
+    {
+      "region_id": "georgia-tbilisi-central-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-tbilisi-central-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-guria-regional-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-guria-regional-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-mtskheta-mtianeti-regional-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-mtskheta-mtianeti-regional-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-zestaphoni-regional-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-zestaphoni-regional-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-kakheti-regional-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-kakheti-regional-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-kvemo-kartli-regional-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-kvemo-kartli-regional-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-samegrelo-regional-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-samegrelo-regional-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-samtskhe-javakheti-regional-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-samtskhe-javakheti-regional-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-khashuri-regional-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-khashuri-regional-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-gori-local-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-gori-local-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-kaspi-local-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-kaspi-local-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-mestia-local-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-mestia-local-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-poti-local-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-poti-local-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-java-tskhinvali-local-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-java-tskhinvali-local-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-abasha-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-abasha-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-adigeni-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-adigeni-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-ambrolauri-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-ambrolauri-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-aspindza-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-aspindza-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-akhalkalaki-regional-archive",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-akhalkalaki-regional-archive"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-akhmeta-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-akhmeta-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-baghdati-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-baghdati-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-bolnisi-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-bolnisi-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-borjomi-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-borjomi-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-gardabani-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-gardabani-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-gurjaani-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-gurjaani-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-dedophlistskaro-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-dedophlistskaro-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-dmanisi-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-dmanisi-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-vani-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-vani-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-tetritskaro-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-tetritskaro-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-terjola-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-terjola-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-tianeti-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-tianeti-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-lagodekhi-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-lagodekhi-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-lanchkhuti-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-lanchkhuti-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-lentekhi-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-lentekhi-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-marneuli-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-marneuli-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-martvili-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-martvili-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-mtskheta-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-mtskheta-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-ninotsminda-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-ninotsminda-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-oni-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-oni-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-sagarejo-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-sagarejo-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-samtredia-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-samtredia-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-sachkhere-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-sachkhere-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-sighnaghi-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-sighnaghi-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-senaki-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-senaki-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-tkibuli-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-tkibuli-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-kareli-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-kareli-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-kazbegi-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-kazbegi-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-kvareli-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-kvareli-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-chokhatauri-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-chokhatauri-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-chkhorotsku-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-chkhorotsku-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-tsageri-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-tsageri-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-tsalenjikha-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-tsalenjikha-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-tsalka-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-tsalka-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-tskaltubo-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-tskaltubo-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-chiatura-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-chiatura-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-kharagauli-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-kharagauli-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-khobi-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-khobi-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "georgia-khoni-local-representative",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-khoni-local-representative"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-agdam-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-agdam-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-bak-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-bak-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-fuzuli-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-fuzuli-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-gnc-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-gnc-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-goycay-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-goycay-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-quba-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-quba-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-lnkran-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-lnkran-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-mingcevir-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-mingcevir-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-salyan-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-salyan-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-sumqayt-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-sumqayt-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-samax-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-samax-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-ski-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-ski-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-smkir-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-smkir-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-sirvan-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-sirvan-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-yevlax-filial",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-yevlax-filial"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-nakhchivan",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-nakhchivan-state"
+      ],
+      "discovery_sources": [
+        "https://milliarxiv.gov.az/az/dovlet-arxivinin-filiallari"
+      ]
+    },
+    {
+      "region_id": "georgia-deposit-preservation",
+      "country": "georgia",
+      "institution_ids": [
+        "georgia-deposit-preservation"
+      ],
+      "discovery_sources": [
+        "https://archive.gov.ge/en/teritoriuli-organoebi"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-abseron-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-abseron-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-agdas-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-agdas-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-agstafa-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-agstafa-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-agsu-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-agsu-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-agcabdi-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-agcabdi-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-astara-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-astara-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-balakn-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-balakn-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-beylqan-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-beylqan-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-brd-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-brd-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-bilsuvar-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-bilsuvar-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-cbrayl-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-cbrayl-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-clilabad-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-clilabad-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-dasksn-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-dasksn-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-sabran-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-sabran-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-gdby-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-gdby-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-goranboy-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-goranboy-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-goygol-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-goygol-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-hacqabul-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-hacqabul-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-xacmaz-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-xacmaz-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-xocal-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-xocal-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-xocavnd-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-xocavnd-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-xz-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-xz-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-imisli-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-imisli-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-ismayll-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-ismayll-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-klbcr-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-klbcr-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-kurdmir-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-kurdmir-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-qax-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-qax-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-qazax-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-qazax-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-qbl-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-qbl-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-qobustan-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-qobustan-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-qubadl-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-qubadl-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-qusar-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-qusar-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-lacn-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-lacn-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-lerik-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-lerik-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-masall-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-masall-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-naftalan-shr-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-naftalan-shr-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-neftcala-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-neftcala-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-oguz-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-oguz-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-saatl-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-saatl-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-sabirabad-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-sabirabad-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-samux-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-samux-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-siyzn-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-siyzn-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-susa-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-susa-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-trtr-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-trtr-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-tovuz-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-tovuz-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-ucar-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-ucar-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-yardml-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-yardml-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-zaqatala-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-zaqatala-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-zngilan-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-zngilan-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-zrdab-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-zrdab-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-babk-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-babk-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-culfa-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-culfa-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    },
+    {
+      "region_id": "azerbaijan-srur-rayon-dovlt-arxivi",
+      "country": "azerbaijan",
+      "institution_ids": [
+        "azerbaijan-srur-rayon-dovlt-arxivi"
+      ],
+      "discovery_sources": [
+        "https://frameworks.e-qanun.az/21/f_21605.html"
+      ]
+    }
+  ],
+  "release_state": "public-preview",
+  "complete_regions": 0,
+  "limits": [
+    "Institution discovery is broad but no regional network is yet marked fully reconciled.",
+    "Directory-listed institutions are not automatically holdings-reviewed or digitally accessible.",
+    "Country-specific gaps and stale directories remain visible; this is not a complete historical volost gazetteer."
+  ],
+  "coverage_defaults": {
+    "as_of": "2026-11-02",
+    "state": "partial",
+    "network_reconciled": false,
+    "municipal_branches_reconciled": false,
+    "gaps": [
+      "Collection and branch reconciliation remains necessary; a listed authority or national route is not a custody decision."
+    ],
+    "verification_note": "Current source scope and record date must be reviewed."
+  }
+}

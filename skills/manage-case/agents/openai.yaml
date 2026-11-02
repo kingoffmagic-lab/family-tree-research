@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manage Case"
+  short_description: "Start, resume, and coordinate a private case"
+  default_prompt: "Use $manage-case for my family-history investigation."

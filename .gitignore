@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+.pytest_cache/
+/my-case/
+/cases/
+/kinship-cases/
+/scans/
+/output/
+/link-check.json
+.env
+*.cookies
