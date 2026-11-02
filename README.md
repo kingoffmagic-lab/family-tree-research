@@ -14,7 +14,7 @@
 - Подбирать архивы и другие источники по месту, времени и виду записи, учитывая старые названия, границы, приходы и варианты написания имён.
 - Искать сведения в доступных метрических, военных, миграционных и репрессивных материалах, книгах, газетах и местных исторических ресурсах.
 - Читать доступные документы и сканы, если агент поддерживает их просмотр, отмечать неясные места и отделять однофамильцев друг от друга.
-- Вести людей, источники, утверждения, родственные связи и журнал поисков; готовить интерактивное дерево с отчётом в HTML и экспорт GEDCOM.
+- Вести учёт людей, источников и родственных связей, сохранять гипотезы и журнал поисков; готовить интерактивное дерево с отчётом в HTML и экспорт GEDCOM.
 
 В комплекте — [региональный каталог](regional-archives/README.md) с 661 записью об учреждениях, отделениях и службах и [64 других источника](resources/README.md). Есть маршруты для всех 15 бывших союзных республик, Польши и Финляндии. **Покрытие частичное:** наличие ссылки не означает, что нужные записи сохранились или доступны онлайн. [Состояние каталога и пробелы](regional-archives/COVERAGE.md) указаны отдельно.
 
@@ -62,7 +62,7 @@ This is not a separate tree-drawing application. You tell your agent what you kn
 - Find promising archives and sources by place, period, and record type, accounting for historical names, boundaries, parishes, and name variants.
 - Research accessible church, military, migration, and repression records, books, newspapers, and local-history resources.
 - Read available documents and scans when the agent supports them, mark uncertain readings, and keep namesakes separate.
-- Maintain people, sources, claims, relationships, and a search log; produce an interactive HTML tree/report and a GEDCOM export.
+- Keep records of people, sources, claims, relationships, and searches; produce an interactive HTML tree/report and a GEDCOM export.
 
 The package includes a [regional directory](regional-archives/README.md) with 661 institution, branch, and service entries, plus [64 other resources](resources/README.md). It provides research routes across all 15 former Soviet republics, Poland, and Finland. **Coverage is partial:** a link does not establish that particular records survive or are available online. See the [coverage notes and gaps](regional-archives/COVERAGE.md).
 
